@@ -4,5 +4,7 @@ public class objeto {
 
 	public objeto(){
 		
+		
+		
 	}
 }
